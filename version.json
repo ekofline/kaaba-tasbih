@@ -1,11 +1,9 @@
 {
   "latestVersionCode": 1,
-  "latestVersionName": "1.0.0",
+  "latestVersionName": "1.0",
   "minRequiredVersionCode": 1,
   "forceUpdate": false,
-  "updateTarget": "apk",
-  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.noorstudio.kaabatasbih",
-  "apkUrl": "https://github.com/KULLANICI_ADIN/kaaba-tasbih/releases/latest/download/app.apk",
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kaabatasbih.app",
   "updateMessage": {
     "tr": "Yeni özellikler ve iyileştirmeler için güncelleyin.",
     "en": "Update for new features and improvements.",
