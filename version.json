@@ -1,0 +1,19 @@
+{
+  "latestVersionCode": 1,
+  "latestVersionName": "1.0.0",
+  "minRequiredVersionCode": 1,
+  "forceUpdate": false,
+  "updateTarget": "apk",
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.noorstudio.kaabatasbih",
+  "apkUrl": "https://github.com/KULLANICI_ADIN/kaaba-tasbih/releases/latest/download/app.apk",
+  "updateMessage": {
+    "tr": "Yeni özellikler ve iyileştirmeler için güncelleyin.",
+    "en": "Update for new features and improvements.",
+    "ar": "قم بالتحديث للحصول على ميزات وتحسينات جديدة.",
+    "id": "Perbarui untuk fitur dan peningkatan baru.",
+    "ur": "نئی خصوصیات اور بہتری کے لیے اپ ڈیٹ کریں۔",
+    "bn": "নতুন বৈশিষ্ট্য এবং উন্নতির জন্য আপডেট করুন।",
+    "fa": "برای ویژگی‌ها و بهبودهای جدید به‌روزرسانی کنید.",
+    "fr": "Mettez à jour pour de nouvelles fonctionnalités et améliorations."
+  }
+}
