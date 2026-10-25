@@ -1,17 +1,19 @@
 {
-  "latestVersionCode": 1,
-  "latestVersionName": "1.0",
-  "minRequiredVersionCode": 1,
-  "forceUpdate": false,
+  "latestVersionCode": 19,
+  "latestVersionName": "1.1.1",
+  "minRequiredVersionCode": 19,
+  "forceUpdate": true,
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kaabatasbih.app",
   "updateMessage": {
-    "tr": "Yeni özellikler ve iyileştirmeler için güncelleyin.",
-    "en": "Update for new features and improvements.",
-    "ar": "قم بالتحديث للحصول على ميزات وتحسينات جديدة.",
-    "id": "Perbarui untuk fitur dan peningkatan baru.",
-    "ur": "نئی خصوصیات اور بہتری کے لیے اپ ڈیٹ کریں۔",
-    "bn": "নতুন বৈশিষ্ট্য এবং উন্নতির জন্য আপডেট করুন।",
-    "fa": "برای ویژگی‌ها و بهبودهای جدید به‌روزرسانی کنید.",
-    "fr": "Mettez à jour pour de nouvelles fonctionnalités et améliorations."
+    "tr": "Yeni sürüm hazır. Devam etmek için uygulamayı güncelleyin.",
+    "en": "A new version is available. Update the app to continue.",
+    "ar": "يتوفر إصدار جديد. حدّث التطبيق للمتابعة.",
+    "id": "Versi baru tersedia. Perbarui aplikasi untuk melanjutkan.",
+    "ur": "نیا ورژن دستیاب ہے۔ جاری رکھنے کے لیے ایپ کو اپ ڈیٹ کریں۔",
+    "bn": "নতুন সংস্করণ উপলব্ধ। চালিয়ে যেতে অ্যাপটি আপডেট করুন।",
+    "fa": "نسخهٔ جدیدی در دسترس است. برای ادامه برنامه را به‌روزرسانی کنید.",
+    "fr": "Une nouvelle version est disponible. Mettez l’application à jour pour continuer.",
+    "ru": "Доступна новая версия. Обновите приложение, чтобы продолжить.",
+    "hi": "नया संस्करण उपलब्ध है। आगे बढ़ने के लिए ऐप अपडेट करें।"
   }
 }
